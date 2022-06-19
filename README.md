@@ -15,11 +15,8 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="1512" alt="Снимок экрана 2022-06-19 в 1 21 04 AM" src="https://user-images.githubusercontent.com/52038455/174467101-d1befe32-19db-407e-8c87-21c2e15ea9f4.png">
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
